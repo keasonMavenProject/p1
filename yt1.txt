@@ -1,1 +1,2 @@
 insert into p1
+insert into p2
