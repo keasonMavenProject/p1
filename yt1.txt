@@ -4,4 +4,3 @@ init
 3
 2-1 merge
 m1
-m2
